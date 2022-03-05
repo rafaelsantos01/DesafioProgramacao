@@ -26,6 +26,7 @@ Link para  mais ajuda.
 📝 [LINK](https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository)
 
 <h2>📃Questão 01</h2>
+
 A mediana de uma lista de números é basicamente o elemento que se encontra no meio da lista após a ordenação. Dada uma lista de números com um número ímpar de elementos, desenvolva um algoritmo que encontre a mediana.
 
 Exemplo:
@@ -44,8 +45,12 @@ Situação:✔️Completa
 
 Teste✔️
 
+📝 [JAVADOC](https://rafaelsantos222.github.io/capgeminiEx1/)
+
+
 
 <h2>📃Questão 02</h2>
+
 Dado um vetor de inteiros n e um inteiro qualquer x. Construa um algoritmo que determine o número de elementos pares do vetor que tem uma diferença igual ao valor de x.
 
 Exemplo:
@@ -63,8 +68,13 @@ Situação:✔️ Completa.
 
 Teste✔️
 
+📝 [JAVADOC](https://rafaelsantos222.github.io/capgeminiEx2/)
+
+
 
 <h2>📃Questão 03</h2>
+
+
 Um texto precisa ser encriptado usando o seguinte esquema. Primeiro, os espaços são removidos do texto. Então, os caracteres são escritos em um grid, no qual as linhas e colunas tem as seguintes regras:
 
 <=linha<=coluna<=
@@ -93,5 +103,8 @@ Situação: ✔️ Completa.
 Teste✔️
 
 
+📝 [JAVADOC](https://rafaelsantos222.github.io/capgeminiEx3/)
 
-Rafael P Santos
+
+
+[Rafael P Santos](https://linktr.ee/rafapsantos)
